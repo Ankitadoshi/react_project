@@ -1,7 +1,7 @@
 
 ###   -----INITIAL RENDERING----
 
-##Parent constructor: 
+## Parent constructor: 
 can define state since its called once initially
 
 
